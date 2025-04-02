@@ -88,6 +88,20 @@ Seluruh proyek ini dihasilkan oleh AI, menunjukkan bagaimana AI modern dapat:
 - Mengikuti praktik terbaik dan standar pengkodean
 - Membuat dokumentasi yang komprehensif
 
+## Development Tools (English)
+This project was developed using:
+- [VS Code](https://code.visualstudio.com/) - Primary code editor
+- [Cline](https://cline.so/) - AI coding assistant
+- [OpenRouter](https://openrouter.ai/) - AI model platform
+- [Deepseek V3](https://deepseek.com/) - Advanced AI model
+
+## Alat Pengembangan (Bahasa Indonesia)
+Proyek ini dikembangkan menggunakan:
+- [VS Code](https://code.visualstudio.com/) - Editor kode utama
+- [Cline](https://cline.so/) - Asisten coding AI
+- [OpenRouter](https://openrouter.ai/) - Platform model AI
+- [Deepseek V3](https://deepseek.com/) - Model AI canggih
+
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
