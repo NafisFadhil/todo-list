@@ -51,7 +51,7 @@ The AI handled:
 ## Development Tools
 This project was developed using:
 - [VS Code](https://code.visualstudio.com/) - Primary code editor
-- [Cline](https://cline.so/) - AI coding assistant
+- [Cline](https://cline.bot/) - AI coding assistant
 - [OpenRouter](https://openrouter.ai/) - AI model platform
 - [Deepseek V3](https://deepseek.com/) - Advanced AI model
 
